@@ -1,0 +1,3 @@
+[submodule "railstutorial/environment/hello_app"]
+	path = railstutorial/environment/hello_app
+	url = https://github.com/your-org/hello_app.git
