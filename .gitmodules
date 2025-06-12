@@ -1,3 +1,6 @@
 [submodule "railstutorial/environment/hello_app"]
 	path = railstutorial/environment/hello_app
 	url = https://github.com/azevedo7/hello_app.git
+[submodule "railstutorial/environment/toy_app"]
+	path = railstutorial/environment/toy_app
+	url = git@github.com:azevedo7/toy_app.git
